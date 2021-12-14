@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/cYzjfyZ/github-cover.png" alt="github-cover" border="0">
+<img align="center" src="https://i.ibb.co/BBSmGFf/github-cover-1.png" alt="github-cover" border="0">
 <h1 align="center">Hi 👋, I'm Showkat</h1>
 <h3 align="center">A passionate frontend developer from Planet Earth, I am highly enthusiastic about open-source contribution. If you need a hand with your reactjs / javascript based projects, ping me on twitter or mail me.</h3>
 
