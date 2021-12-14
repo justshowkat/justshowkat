@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Showkat</h1>
 <h3 align="center">A passionate frontend developer from Planet Earth, I am highly enthusiastic about open-source contribution. If you need a hand with your reactjs / javascript based projects, ping me on twitter or mail me.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justshowkat&label=Profile%20views&color=0e75b6&style=flat" alt="justshowkat" /> </p>
-<p align="left"> <a href="https://twitter.com/justshowkat" target="blank"><img src="https://img.shields.io/twitter/follow/justshowkat?logo=twitter&style=for-the-badge" alt="justshowkat" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=justshowkat&label=Profile%0views&color=0e75b6&style=flat" alt="justshowkat" /> </p> -->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justshowkat" alt="justshowkat" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/justshowkat" target="blank"><img src="https://img.shields.io/twitter/follow/justshowkat?logo=twitter&style=for-the-badge" alt="justshowkat" /></a> </p>
 
 - 🌱 I’m currently learning **web 3.0**
 
