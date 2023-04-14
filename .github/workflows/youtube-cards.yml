@@ -1,7 +1,6 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every hour, on the hour
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -10,5 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
+        id: youtube-cards
         with:
           channel_id: UCABW_M0tPaSxrXnYsAeRAFg
+      - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+        shell: bash
