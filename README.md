@@ -1,6 +1,16 @@
 <img align="center" src="https://i.ibb.co/cFmwfh7/github-cover-2.png" alt="github-cover" border="0">
 
-<p align="center"> <a href="https://twitter.com/justshowkat" target="blank"><img src="https://img.shields.io/twitter/follow/justshowkat?logo=twitter&style=for-the-badge" alt="justshowkat" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/justshowkat" target="blank">
+    <img src="https://img.shields.io/badge/JustShowkat-657786?logo=twitter&style=for-the-badge&logoWidth=30" alt="justshowkat" />
+  </a> 
+  <a href="https://youtube.com/justshowkat" target="blank">
+    <img src="https://img.shields.io/badge/JustShowkat-red?logo=youtube&style=for-the-badge&logoWidth=30" alt="justshowkat" />
+  </a>
+  <a href="https://linkedin.com/justshowkat" target="blank">
+    <img src="https://img.shields.io/badge/JustShowkat-0072b1?logo=linkedin&style=for-the-badge&logoWidth=30" alt="justshowkat" />
+  </a>
+</p>
 
 ## :bulb: Skills
 <p align="center"> 
