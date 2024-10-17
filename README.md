@@ -35,8 +35,7 @@
 
 ## 📈 Github Stats
 <h3 align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justshowkat&theme=dark&show_icons=true&locale=en" alt="justshowkat" />
-  </br>
+ 
   <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=justshowkat&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </h3>
 
