@@ -33,12 +33,6 @@
   <img src="https://img.shields.io/badge/shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white"> 
 </p>
 
-## 📈 Github Stats
-<h3 align="center">
- 
-  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=justshowkat&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</h3>
-
 
 ## I also create Digital arts
 <p align="center">
