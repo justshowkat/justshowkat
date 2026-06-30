@@ -1,63 +1,134 @@
-<img align="center" src="https://i.ibb.co/cFmwfh7/github-cover-2.png" alt="github-cover" border="0">
+<div align="center">
 
-<p align="center"> 
-  <a href="https://twitter.com/justshowkat" target="blank">
-    <img src="https://img.shields.io/badge/JustShowkat-657786?logo=twitter&style=for-the-badge&logoWidth=30" alt="justshowkat" />
-  </a> 
-  <a href="https://youtube.com/justshowkat" target="blank">
-    <img src="https://img.shields.io/badge/JustShowkat-red?logo=youtube&style=for-the-badge&logoWidth=30" alt="justshowkat" />
-  </a>
-  <a href="https://linkedin.com/justshowkat" target="blank">
-    <img src="https://img.shields.io/badge/JustShowkat-0072b1?logo=linkedin&style=for-the-badge&logoWidth=30" alt="justshowkat" />
-  </a>
+<img src="https://api.iconify.design/bi/compass.svg?color=%238a8f98" width="34" height="34" alt="" />
+
+<br>
+
+# SKOT
+
+<sub><strong>ENGINEER · SYSTEMS THINKER · CAPITAL ALLOCATOR</strong></sub>
+
+<br>
+
+*Most decisions are reversible. The few that aren't deserve the most thought.*
+
+</div>
+
+<br>
+
+## On Building
+
+I spend most of my time at the intersection of software, capital, and judgment — writing the systems myself, then deciding where the output of that work should go. The interesting problems aren't usually technical. They're about which fifteen things to ignore so the right five compound.
+
+I'd rather own one durable system than maintain ten that need me forever.
+
+<br>
+
+## What I Optimize For
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/bi/hourglass-split.svg?color=%238a8f98" width="20" height="20" alt="" /> &nbsp; **Long-Term Thinking**
+
+Decisions are weighed against a ten-year horizon, not a quarterly one. Slower compounding beats faster decay.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/bi/arrow-repeat.svg?color=%238a8f98" width="20" height="20" alt="" /> &nbsp; **Compounding**
+
+Code, capital, relationships, and reputation are all the same asset class — they're only worth building if they're left alone to grow.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/bi/diagram-3.svg?color=%238a8f98" width="20" height="20" alt="" /> &nbsp; **First Principles**
+
+I'd rather be slow and right than fast and borrowed. Convention is a starting hypothesis, not an answer.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/bi/layers.svg?color=%238a8f98" width="20" height="20" alt="" /> &nbsp; **Leverage**
+
+The goal was never more code. It's fewer hours producing a disproportionate share of the outcome.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## A Filter, Not a Formula
+
+Before anything gets built or funded, it passes through the same five questions.
+
+<table width="100%">
+<tr><td width="34"><img src="https://api.iconify.design/bi/check2.svg?color=%238a8f98" width="16" height="16" alt="" /></td><td>Does this create leverage?</td></tr>
+<tr><td><img src="https://api.iconify.design/bi/check2.svg?color=%238a8f98" width="16" height="16" alt="" /></td><td>Does it compound, or just accumulate?</td></tr>
+<tr><td><img src="https://api.iconify.design/bi/check2.svg?color=%238a8f98" width="16" height="16" alt="" /></td><td>Is it still standing in a decade?</td></tr>
+<tr><td><img src="https://api.iconify.design/bi/check2.svg?color=%238a8f98" width="16" height="16" alt="" /></td><td>Does it widen my options or quietly close them?</td></tr>
+<tr><td><img src="https://api.iconify.design/bi/check2.svg?color=%238a8f98" width="16" height="16" alt="" /></td><td>Would I make the same call again, knowing what it costs?</td></tr>
+</table>
+
+<br>
+
+## Where I Spend Attention
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Artificial Intelligence</td>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Automation & Systems</td>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Capital Allocation</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Financial Markets</td>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Infrastructure</td>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Energy</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Advanced Manufacturing</td>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Robotics</td>
+<td width="33%" valign="top"><img src="https://api.iconify.design/bi/record-circle.svg?color=%238a8f98" width="14" height="14" alt="" /> &nbsp; Space</td>
+</tr>
+</table>
+
+<br>
+
+## Working Foundation
+
+Technology is the toolkit, not the identity — but it's worth being precise about the tools.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=e6e6e6" alt="JavaScript" height="22" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=e6e6e6" alt="TypeScript" height="22" />
+<img src="https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e6e6e6" alt="SQL" height="22" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=e6e6e6" alt="React" height="22" />
+<img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=e6e6e6" alt="Next.js" height="22" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=e6e6e6" alt="Node.js" height="22" />
+<img src="https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=e6e6e6" alt="Express" height="22" />
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e6e6e6" alt="PostgreSQL" height="22" />
+<img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=e6e6e6" alt="MongoDB" height="22" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=e6e6e6" alt="Docker" height="22" />
+<img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=e6e6e6" alt="Linux" height="22" />
+<img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=e6e6e6" alt="Git" height="22" />
 </p>
 
-## :bulb: Skills
-<p align="center"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue">
-  <img src="https://img.shields.io/badge/React_Native-6940b7?style=for-the-badge&logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">	
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
-  <img src="https://img.shields.io/badge/shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white"> 
-</p>
+<br>
 
+<div align="center">
 
-## I also create Digital arts
-<p align="center">
-<a href="https://dribbble.com/justshowkat" target="blank"><img align="center" src="https://cdn.dribbble.com/users/4948925/screenshots/14044343/media/8b9cd7b0a11de969c74599ddb7dc0d1a.png" alt="justshowkat" width="400" /></a>
-<a href="https://dribbble.com/justshowkat" target="blank"><img align="center" src="https://cdn.dribbble.com/users/4948925/screenshots/14477526/media/cca97f8040e6d739996d383bfd6f52d4.png" alt="justshowkat" width="400" /></a>
-<a href="https://dribbble.com/justshowkat" target="blank"><img align="center" src="https://cdn.dribbble.com/users/4948925/screenshots/14519788/media/558eb23cb55426fe60da7b14bba47db3.png" alt="justshowkat" width="400" /></a>
-<a href="https://dribbble.com/justshowkat" target="blank"><img align="center" src="https://cdn.dribbble.com/users/4948925/screenshots/14043992/media/d0e41d71cea3d363372470e8d983b963.png" alt="justshowkat" width="400" /></a>
-</p>
+<sub>Simplicity scales. Decisions compound more than effort does.</sub>
 
-## Connect with me:
-<p align="center">
-<a href="https://codepen.io/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://dev.to/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://twitter.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://codesandbox.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://fb.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://instagram.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://dribbble.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://www.behance.net/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://medium.com/mshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mshowkat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devtopedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devtopedia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justshowkat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/justshowkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justshowkat" height="30" width="40" /></a>
-</p>
+<img src="https://api.iconify.design/bi/compass.svg?color=%238a8f98" width="20" height="20" alt="" />
 
-![Profile views](https://gpvc.arturio.dev/justshowkat)
+</div>
